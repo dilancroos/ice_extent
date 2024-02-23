@@ -1,16 +1,9 @@
-# ice_extent
-
 Group D
-
-Sayed Mossavi
-Dilan Croos
-Ranjani A V
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url1]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -20,7 +13,9 @@ Ranjani A V
   <h5 align="center">Université Paris Cité - M2 - Digital Science (AIRE)</h5>
 
   <p align="center">
-    Dilan Croos
+  Ranjani A V<br/>
+  Sayed Mossavi<br/>
+  Dilan Croos
     <br />
     <a href="https://github.com/dilancroos/AI_Class_Work"><strong>Explore the docs »</strong></a>
     <br />
