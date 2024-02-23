@@ -122,9 +122,9 @@ Python 3.11.6^
 
 ## Contact
 
-Sayed Mossavi -
+Sayed Mossavi - sayed.mossavi@cri-paris.org
 
-Ranjani A V -
+Ranjani A V - ranjani.amrapalivishwanath@cri-paris.org
 
 Dilan Croos - antondilan.crooswarnakulasuriya@cri-paris.org.com
 
