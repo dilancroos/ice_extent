@@ -15,13 +15,13 @@
   Sayed Mossavi<br/>
   Dilan Croos
     <br />
-    <a href="https://github.com/dilancroos/AI_Class_Work"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/dilancroos/ice_extent"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     ·
-    <a href="https://github.com/dilancroos/AI_Class_Work/issues">Report Bug</a>
+    <a href="https://github.com/dilancroos/ice_extent/issues">Report Bug</a>
     ·
-    <a href="https://github.com/dilancroos/AI_Class_Work/issues">Request Feature</a>
+    <a href="https://github.com/dilancroos/ice_extent/issues">Request Feature</a>
   </p>
 </div>
 
@@ -136,16 +136,16 @@ Project Link: [https://github.com/dilancroos/ice_extent](https://github.com/dila
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/dilancroos/AI_Class_Work.svg?style=for-the-badge
-[contributors-url]: https://github.com/dilancroos/AI_Class_Work/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dilancroos/AI_Class_Work.svg?style=for-the-badge
-[forks-url]: https://github.com/dilancroos/AI_Class_Work/network/members
-[stars-shield]: https://img.shields.io/github/stars/dilancroos/AI_Class_Work.svg?style=for-the-badge
-[stars-url]: https://github.com/dilancroos/AI_Class_Work/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dilancroos/AI_Class_Work.svg?style=for-the-badge
-[issues-url]: https://github.com/dilancroos/AI_Class_Work/issues
-[license-shield]: https://img.shields.io/github/license/dilancroos/AI_Class_Work.svg?style=for-the-badge
-[license-url]: https://github.com/dilancroos/AI_Class_Work/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/dilancroos/ice_extent.svg?style=for-the-badge
+[contributors-url]: https://github.com/dilancroos/ice_extent/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dilancroos/ice_extent.svg?style=for-the-badge
+[forks-url]: https://github.com/dilancroos/ice_extent/network/members
+[stars-shield]: https://img.shields.io/github/stars/dilancroos/ice_extent.svg?style=for-the-badge
+[stars-url]: https://github.com/dilancroos/ice_extent/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dilancroos/ice_extent.svg?style=for-the-badge
+[issues-url]: https://github.com/dilancroos/ice_extent/issues
+[license-shield]: https://img.shields.io/github/license/dilancroos/ice_extent.svg?style=for-the-badge
+[license-url]: https://github.com/dilancroos/ice_extent/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url1]: https://linkedin.com/in/antondilancrooswarnakulasuriya
 [product-screenshot]: images/screenshot.png
