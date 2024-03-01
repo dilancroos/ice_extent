@@ -83,7 +83,7 @@ Python 3.11.6^
     $ cd ice_extent
    ```
 
-- Check <a href="#usage">Usage</a> to create a virtual environment
+- Check <a href="#usage">Usage</a> to create a virtual environment (optional)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
