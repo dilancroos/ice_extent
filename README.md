@@ -11,9 +11,9 @@
   <h5 align="center">Université Paris Cité - M2 - Digital Science (AIRE)</h5>
 
   <p align="center">
+  Dilan Croos<br>
   Ranjani A V<br/>
   Sayed Mossavi<br/>
-  Dilan Croos
     <br />
     <a href="https://github.com/dilancroos/ice_extent"><strong>Explore the docs »</strong></a>
     <br />
@@ -115,11 +115,11 @@ Python 3.11.6^
 
 ## Contact
 
-Sayed Mossavi - sayed.mossavi@cri-paris.org
+Dilan Croos - antondilan.crooswarnakulasuriya@cri-paris.org
 
 Ranjani A V - ranjani.amrapalivishwanath@cri-paris.org
 
-Dilan Croos - antondilan.crooswarnakulasuriya@cri-paris.org.com
+Sayed Mossavi - sayed.mossavi@cri-paris.org
 
 Project Link: [https://github.com/dilancroos/ice_extent](https://github.com/dilancroos/ice_extent)
 
